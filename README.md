@@ -91,13 +91,16 @@ Sharing and writing technical articles using issues of github 😎
 * Bit
 * Others
   * Count Inversions
-    * [Count Inversions in an array | Set 1 (Using Merge Sort)](https://www.geeksforgeeks.org/counting-inversions/)
-    * [Count inversions in an array | Set 2 (Using Self-Balancing BST)](https://www.geeksforgeeks.org/count-inversions-in-an-array-set-2-using-self-balancing-bst/)
-    * [Count inversions in an array | Set 3 (Using BIT)](https://www.geeksforgeeks.org/count-inversions-array-set-3-using-bit/)
-    * [Count inversions in an array | Set 4 ( Using Trie)](https://www.geeksforgeeks.org/count-inversions-in-an-array-set-4-using-trie/)
-  * 隨機交換演算法
-    * [https://medium.com/@asd757817/簡單又複雜的洗牌演算法-7e7254bb9145](https://medium.com/@asd757817/%E7%B0%A1%E5%96%AE%E5%8F%88%E8%A4%87%E9%9B%9C%E7%9A%84%E6%B4%97%E7%89%8C%E6%BC%94%E7%AE%97%E6%B3%95-7e7254bb9145)
-
+    <details>
+      <summary>Show All</summary>
+ 
+      * [Count Inversions in an array | Set 1 (Using Merge Sort)](https://www.geeksforgeeks.org/counting-inversions/)
+      * [Count inversions in an array | Set 2 (Using Self-Balancing BST)](https://www.geeksforgeeks.org/count-inversions-in-an-array-set-2-using-self-balancing-bst/)
+      * [Count inversions in an array | Set 3 (Using BIT)](https://www.geeksforgeeks.org/count-inversions-array-set-3-using-bit/)
+      * [Count inversions in an array | Set 4 ( Using Trie)](https://www.geeksforgeeks.org/count-inversions-in-an-array-set-4-using-trie/)
+ 
+    </details>
+  * [隨機交換演算法](https://medium.com/@asd757817/%E7%B0%A1%E5%96%AE%E5%8F%88%E8%A4%87%E9%9B%9C%E7%9A%84%E6%B4%97%E7%89%8C%E6%BC%94%E7%AE%97%E6%B3%95-7e7254bb9145)
 
 ### [[⬆]](#toc) <a name='sd'>System Design</a>
 
