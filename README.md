@@ -201,6 +201,7 @@ Sharing and writing technical articles using issues of github 😎
 * CSS
 * HTML
 * Performance
+* SEO
 * Tools
 
 ### [[⬆]](#toc) <a name='others'>Others</a>
