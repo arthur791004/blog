@@ -179,6 +179,7 @@ Sharing and writing technical articles using issues of github 😎
 * [DEV](https://dev.to/)
 * [Web Fundamentals](https://developers.google.com/web/fundamentals/)
 * [Reddit](https://www.reddit.com/r/reactjs/)
+* [dev.to](https://dev.to/t/javascript)
 * Personal Blogs
   * [Overreacted](https://overreacted.io/)
   * [huli](https://github.com/aszx87410/blog)
